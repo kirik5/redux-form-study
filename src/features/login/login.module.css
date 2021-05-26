@@ -1,0 +1,15 @@
+.containerCenter {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.one {
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
